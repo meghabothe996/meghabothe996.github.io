@@ -1,0 +1,33 @@
+body{
+    background-color: whitesmoke;
+    
+}
+
+.container-fluid {
+        margin-top: 5.4%;
+        text-align: center;
+        word-spacing: 4%;
+        font-size: 100%;
+}
+
+div1 h5{
+    font-family: "Do Hyeon", serif;
+    word-spacing: 10px;
+    
+}
+
+div1 p{
+    font-family: "Source Code Pro", serif;
+}
+
+div2 {
+font-family: "Do Hyeon", serif;
+}
+
+div2 span{
+    font-family: "Varela Round", serif;
+}
+
+div3{
+    font-family: "Do Hyeon", serif;
+}
